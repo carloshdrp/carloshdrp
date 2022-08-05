@@ -7,11 +7,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![WebStorm](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains)&nbsp;
-
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains)&nbsp;
+  
 <h2> ⚙️ &nbsp;GitHub Analytics </h2>
 
 <div align="center">
