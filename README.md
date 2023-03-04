@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-## 💻🔭 Interested in:
+## 🔭 Interested in:
 <p align="left"> 
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
