@@ -4,8 +4,8 @@
 <p align="center">
   <img width="43%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mentor404&theme=github-dark-blue"/>
     <img width="43%" height="200px" src="https://github-readme-stats.vercel.app/api?username=mentor404&hide_title=true&theme=github_dark&"/> <br />
-  <img width="43%" src="https://github-profile-trophy.vercel.app/?username=mentor404&column=3&theme=darkhub&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentor404&layout=compact&hide_title=true&langs_count=6&theme=github_dark"/>
+  <img width="30%" src="https://github-profile-trophy.vercel.app/?username=mentor404&column=3&theme=darkhub&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentor404&layout=compact&hide_title=true&langs_count=6&theme=github_dark"/>
 </p>
 
 ## 🔮 My Stack:
