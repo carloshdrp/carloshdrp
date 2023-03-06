@@ -12,6 +12,7 @@
 <p align="left"> 
 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-EBAF00?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgresql-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
