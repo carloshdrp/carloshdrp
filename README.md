@@ -3,7 +3,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img width="43%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mentor404&theme=github-dark-blue"/>
-    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=mentor404&hide_title=true&theme=github_dark&"/> <br />
+    <img width="46%" height="200px" src="https://github-readme-stats.vercel.app/api?username=mentor404&hide_title=true&theme=github_dark&"/> <br />
       <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentor404&layout=compact&hide_title=true&langs_count=6&theme=github_dark"/>
   <img width="20%" src="https://github-profile-trophy.vercel.app/?username=mentor404&column=2&theme=darkhub&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Adobe Reader-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=Zotero&logoColor=white"/>
 </p>
-<br />
 
 ## 📂 Projects:
 Name | Status                                                              | Link
