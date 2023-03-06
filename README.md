@@ -1,16 +1,15 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mentor404!
 
 ## 📊 GitHub Stats:
-<p align="left">
+<p align="center">
   <img width="43%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mentor404&theme=github-dark-blue"/>
-    <img width="43%" height="200px" src="https://github-readme-stats.vercel.app/api?username=mentor404&hide_title=true&theme=github_dark&"/> <br />
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentor404&layout=compact&hide_title=true&langs_count=6&theme=github_dark"/>
-  <img width="30%" src="https://github-profile-trophy.vercel.app/?username=mentor404&column=3&theme=darkhub&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=mentor404&hide_title=true&theme=github_dark&"/> <br />
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentor404&layout=compact&hide_title=true&langs_count=6&theme=github_dark"/>
+  <img width="20%" src="https://github-profile-trophy.vercel.app/?username=mentor404&column=2&theme=darkhub&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 
 ## 🔮 My Stack:
 <p align="left"> 
-
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-EBAF00?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
