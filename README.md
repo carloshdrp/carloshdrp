@@ -45,6 +45,7 @@
 Name | Status                                                              | Link
 -----|---------------------------------------------------------------------|------
 Anilist CSS | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/Mentor404/anilist-css)
+Jogo da Velha | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/Mentor404/jogoDaVelha)
 Livraria | ![Badge](https://img.shields.io/badge/Status-COMPLETE-complete.svg) | [Link](https://github.com/Mentor404/livraria)
 
 
