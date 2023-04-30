@@ -27,7 +27,7 @@
 ## 🔭 Interested in:
 <p align="left"> 
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
