@@ -41,14 +41,6 @@
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=Zotero&logoColor=white"/>
 </p>
 
-## 📂 Projects:
-Name | Status                                                              | Link
------|---------------------------------------------------------------------|------
-Anilist CSS | ![Badge](https://img.shields.io/badge/Status-PAUSED-red.svg) | [Link](https://github.com/Mentor404/anilist-css)
-Jogo da Velha | ![Badge](https://img.shields.io/badge/Status-PAUSED-red.svg) | [Link](https://github.com/Mentor404/jogoDaVelha)
-Livraria | ![Badge](https://img.shields.io/badge/Status-COMPLETE-complete.svg) | [Link](https://github.com/Mentor404/livraria)
-
-
  
 
  
