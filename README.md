@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Reader-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=Zotero&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
 </p>
 
  
