@@ -10,8 +10,11 @@
 
 ## 🔮 My Stack:
 <p align="left"> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-EBAF00?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgresql-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
@@ -22,14 +25,13 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
 </p>
 
 ## 🔭 Interested in:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </p>
 
