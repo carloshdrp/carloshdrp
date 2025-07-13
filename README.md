@@ -17,9 +17,8 @@
 
 ## 💻 IDEs & OS:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Intelli J-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PhpStorm-6b57ff?style=for-the-badge&logo=phpstorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
 </p>
@@ -33,9 +32,7 @@
 
 ## 👩‍💻 Office:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Office 365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Reader-EC1C24?style=for-the-badge&logo=Adobe Acrobat Reader&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=Zotero&logoColor=white"/>
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
 </p>
